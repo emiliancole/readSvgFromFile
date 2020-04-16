@@ -1,0 +1,2 @@
+50,50,10,stroke:black;stroke-width:1;fill:none;
+50,150,10,stroke:black;stroke-width:1;fill:red;
