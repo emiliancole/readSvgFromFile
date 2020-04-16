@@ -1,0 +1,7 @@
+svgOpen,0 0 500 500
+circle,50,50,10,stroke:black;stroke-width:1;fill:none;
+circle,50,150,10,stroke:black;stroke-width:1;fill:red;
+
+rect,150,50,100,50,stroke:black;stroke-width:1;fill:none;
+rect,150,150,100,30,stroke:black;stroke-width:1;fill:red;
+svgClose
